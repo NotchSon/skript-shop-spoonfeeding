@@ -1,2 +1,4 @@
-# skript-shop-spoonfeeding
-yes i spoonfeed sorry ;-;
+# Skript Shop
+
+Addon: TusKe, skQuery
+Usage: Expalined in skript!
